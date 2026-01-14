@@ -27,7 +27,11 @@ A custom table was created to model a non-IT business workflow, allowing hands-o
 4. Improved familiarity with ServiceNow platform capabilities.
 
 # ServiceNow PDI Screenshots:
+1. Custom Table:
+![Custom Table](screenshots_custom_table/custom_table.png)
 
+2. Custom Form and Fields:
+![Custom Form and Fields](screenshots_custom_table/custome_form.png)
 
-## Notes
+# Notes
 This project was built as a learning-focused exercise to strengthen core ServiceNow platform concepts and configuration skills.
