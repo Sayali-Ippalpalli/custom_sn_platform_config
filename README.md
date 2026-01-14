@@ -31,7 +31,7 @@ A custom table was created to model a non-IT business workflow, allowing hands-o
 ![Custom Table](screenshots_custom_table/custom_table.png)
 
 2. Custom Form and Fields:
-![Custom Form and Fields](screenshots_custom_table/custome_form.png)
+![Custom Form and Fields](screenshots_custom_table/custom_form.png)
 
 # Notes
 This project was built as a learning-focused exercise to strengthen core ServiceNow platform concepts and configuration skills.
